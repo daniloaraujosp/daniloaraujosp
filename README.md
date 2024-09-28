@@ -3,7 +3,9 @@
 Bacharel em Design pela Universidade Presbiteriana Mackenzie em São Paulo. Atualmente, estou migrando para a área de tecnologia como Desenvolvedor .NET C#, UX/UI Design e prototipagem de aplicativos móveis com Figma.
 
 > [!IMPORTANT]
-> Repositório pessoal com exercícios e desafios realizados durante cursos, bootcamps, projetos pessoais e profissionais . 
+> Repositório pessoal com exercícios e desafios realizados durante cursos, bootcamps, projetos pessoais e profissionais .
+> Acesse meu portfólio:   
+<a href="https://www.daniloaraujo.dev.br/">www.daniloaraujo.dev.br</a>
 
 <h1>
     <a href="https://www.dio.me/">
@@ -18,6 +20,3 @@ Bacharel em Design pela Universidade Presbiteriana Mackenzie em São Paulo. Atua
 
 
 
-> [!NOTE]  
-> Acesse meu portfólio:   
-<a href="https://www.daniloaraujo.dev.br/">www.daniloaraujo.dev.br</a>

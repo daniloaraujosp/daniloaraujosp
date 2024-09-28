@@ -1,9 +1,7 @@
-# Danilo Araujo
+# Sobre
 
 Repositório pessoal com exercícios e desafios realizados durante cursos, bootcamps, projetos pessoais e profissionais.
 <br>
-
-## Sobre 
 
 Bacharel em Design pela Universidade Presbiteriana Mackenzie em São Paulo. Atualmente, estou migrando para a área de tecnologia como Desenvolvedor .NET C#, UX/UI Design e prototipagem de aplicativos móveis com Figma.
 
@@ -24,7 +22,7 @@ Possuo experiência como Designer e Web Designer, colaborando com projetos na á
 >    <span> Bootcamp XP Inc. - Full Stack Developer</span>
 ></h3>
 >
-> Atualmente participando do <strong>Bootcamp XP Inc. - Full Stack Developer</strong>.
+> Atualmente participando do **Bootcamp XP Inc. - Full Stack Developer**.
 > Acesse o repositório [neste link](https://github.com/daniloaraujosp/XP-Full-Stack-Developer) e acompanhe a evolução no Bootcamp.
 
 

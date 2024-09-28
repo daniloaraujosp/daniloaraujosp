@@ -7,11 +7,11 @@ Bacharel em Design pela Universidade Presbiteriana Mackenzie em São Paulo. Atua
 > > Acesse meu portfólio:   
 <a href="https://www.daniloaraujo.dev.br/">www.daniloaraujo.dev.br</a>
 
-<h1>
+<h2>
     <a href="https://www.dio.me/">
-     <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" target="_blank"></a>
+     <img align="center" width="30px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" target="_blank"></a>
     <span> Bootcamp XP Inc. - Full Stack Developer</span>
-</h1>
+</h2>
 
 # Detalhes do bootcamp
 

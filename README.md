@@ -3,7 +3,7 @@
 Repositório pessoal com exercícios e desafios realizados durante cursos, bootcamps, projetos pessoais e profissionais.
 <br>
 
-Bacharel em Design pela Universidade Presbiteriana Mackenzie em São Paulo. Atualmente, estou migrando para a área de tecnologia como Desenvolvedor .NET C#, UX/UI Design e prototipagem de aplicativos móveis com Figma.
+Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, estou migrando para a área de tecnologia e atuando como Desenvolvedor Front-End e UX/UI Designer.
 
 Possuo experiência como Designer e Web Designer, colaborando com projetos na área da Educação, Comunicação, Marketing e Tecnologia da Informação.
 

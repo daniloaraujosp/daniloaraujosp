@@ -15,15 +15,3 @@ Possuo experiência como Designer e Desenvolvedor Front-End, colaborando com pro
 >  Acesse meu portfólio: <a href="https://www.daniloaraujo.dev.br/">www.daniloaraujo.dev.br</a>
 
 <br>
-
-><h3>
->    <a href="https://www.dio.me/">
->     <img align="center" width="30px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" target="_blank"></a>
->    <span> Bootcamp XP Inc. - Full Stack Developer</span>
-></h3>
->
-> Atualmente participando do **Bootcamp XP Inc. - Full Stack Developer**.
-> Acesse o repositório [neste link](https://github.com/daniloaraujosp/XP-Full-Stack-Developer) e acompanhe a evolução no Bootcamp.
-
-
-

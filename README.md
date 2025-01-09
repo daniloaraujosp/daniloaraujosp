@@ -3,7 +3,7 @@
 Repositório pessoal com exercícios e desafios realizados durante cursos, bootcamps, projetos pessoais e profissionais.
 <br>
 
-Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, estou migrando para a área de tecnologia e atuando como Desenvolvedor Front-End e UX/UI Designer.
+Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Estudante nos cursos Análise e Desenvolvimento de Sistemas pela UNINTER, e Pós-Graduação UX Desig (Lato senso) pela Universidade Senac São Paulo. Estou migrando para a área de tecnologia e atuando como Desenvolvedor Front-End e Designer de Experiência e Interface do Usuário (UX/UI Designer).
 
 Possuo experiência como Designer e Web Designer, colaborando com projetos na área da Educação, Comunicação, Marketing e Tecnologia da Informação.
 

@@ -5,7 +5,7 @@ Repositório pessoal com exercícios e desafios realizados durante cursos, bootc
 
 Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Estudante nos cursos Análise e Desenvolvimento de Sistemas pela UNINTER, e Pós-Graduação UX Design pela Universidade Senac São Paulo.
 
-Possuo experiência como Designer e Desenvolvedor, colaborando com projetos na área da Educação, Comunicação, Marketing e Tecnologia da Informação.
+Possuo experiência colaborando com projetos na área da Educação, Comunicação, Marketing e Tecnologia da Informação.
 
 <br>
 

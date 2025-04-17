@@ -1,17 +1,14 @@
 # Sobre
 
-Repositório pessoal com projetos pessoais, profissionais, exercícios e desafios realizados durante cursos e bootcamps.
-<br>
-
 Olá, eu sou o Danilo Araujo!
 
 Bacharel em Desenho Industrial com habilitação em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Atualmente, me especializo em tecnologia com dois focos principais: curso Análise e Desenvolvimento de Sistemas pela UNINTER e uma Pós-Graduação em UX Design pelo Centro Universitário Senac.
 
 Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades como freelancer ou alocado em empresa, nas seguintes funções:
 
-• UX/UI Designer
-• Desenvolvedor .NET Jr
-• Desenvolvedor Angular
+• UX/UI Designer<br>
+• Desenvolvedor .NET Jr<br>
+• Desenvolvedor Angular<br>
 
 Estou pronto para contribuir com projetos que unam design e tecnologia. Entre em contato para conversarmos!
 

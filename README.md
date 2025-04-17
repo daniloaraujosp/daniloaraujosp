@@ -3,9 +3,17 @@
 Repositório pessoal com projetos pessoais, profissionais, exercícios e desafios realizados durante cursos e bootcamps.
 <br>
 
-Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER e Pós-Graduação em UX Design pela Universidade Senac São Paulo. Estou em busca de oportunidades para atuar como UX/UI Designer e Desenvolvedor .Net Jr.
+Olá, eu sou o Danilo Araujo!
 
-Possuo experiência colaborando com projetos na área da Educação, Comunicação, Marketing e Tecnologia da Informação.
+Bacharel em Desenho Industrial com habilitação em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Atualmente, me especializo em tecnologia com dois focos principais: curso Análise e Desenvolvimento de Sistemas pela UNINTER e uma Pós-Graduação em UX Design pelo Centro Universitário Senac.
+
+Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades como freelancer ou alocado em empresa, nas seguintes funções:
+
+• UX/UI Designer
+• Desenvolvedor .NET Jr
+• Desenvolvedor Angular
+
+Estou pronto para contribuir com projetos que unam design e tecnologia. Entre em contato para conversarmos!
 
 <br>
 

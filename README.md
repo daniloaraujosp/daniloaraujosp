@@ -6,9 +6,9 @@ Bacharel em Desenho Industrial com habilitação em Programação Visual pela Un
 
 Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades como freelancer ou alocado na empresa, nas seguintes funções:
 
+• Designer Gráfico<br>
 • UX/UI Designer<br>
-• Desenvolvedor .NET Jr<br>
-• Desenvolvedor Angular<br>
+• Desenvolvedor Web<br>
 
 Estou pronto para contribuir com projetos que unam design e tecnologia. Entre em contato para conversarmos!
 

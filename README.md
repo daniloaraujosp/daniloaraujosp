@@ -4,7 +4,7 @@ Olá, eu sou o Danilo Araujo!
 
 Bacharel em Design com habilitação em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Atualmente, me especializo em design e tecnologia com dois focos principais: Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNINTER e Pós-Graduação em UX Design pelo Centro Universitário Senac.
 
-Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades com trabalho remoto, híbrido ou presencial nas capitais Curitiba e São Paulo, nas seguintes funções:
+Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades com trabalho remoto, híbrido ou presencial nas capitais São Paulo e Curitiba, nas seguintes funções:
 
 • UX/UI Designer<br>
 • Desenvolvedor Web<br>

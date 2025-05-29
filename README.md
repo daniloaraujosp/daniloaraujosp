@@ -1,3 +1,6 @@
+![capa-linkedin-perfil](https://github.com/user-attachments/assets/d9f51ae2-8fc1-415e-a7f3-18ae96d50b76)
+
+
 # Sobre
 
 Olá, eu sou o Danilo Araujo!

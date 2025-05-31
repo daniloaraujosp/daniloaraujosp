@@ -2,16 +2,9 @@
 
 # Sobre
 
-Olá, eu sou o Danilo Araujo!
+Olá! Sou Danilo Araujo, Bacharel em Design com ênfase em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Tenho experiência de mais de 10 anos como Designer Gráfico. Atualmente, sou estudante dos cursos de Análise e Desenvolvimento de Sistemas pela UNINTER e de Pós-Graduação em UX Design (Lato Sensu) pela Universidade Senac São Paulo.
 
-Bacharel em Design com habilitação em Programação Visual pela Universidade Presbiteriana Mackenzie, em São Paulo. Atualmente, me especializo em design e tecnologia com dois focos principais: Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNINTER e Pós-Graduação em UX Design pelo Centro Universitário Senac.
-
-Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para oportunidades com trabalho remoto, híbrido ou presencial nas capitais São Paulo e Curitiba, nas seguintes funções:
-
-• UX/UI Designer<br>
-• Desenvolvedor Web<br>
-
-Estou disponível para contribuir com projetos que unam design e tecnologia. Entre em contato para conversarmos!
+Atuo na interseção entre design e desenvolvimento, unindo criatividade, experiência do usuário e programação. Estou disponível para contribuir com projetos que unam design e tecnologia, com trabalho presencial, híbrido ou remoto nas capitais São Paulo e Curitiba.
 
 <br>
 

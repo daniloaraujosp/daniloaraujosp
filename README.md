@@ -3,7 +3,7 @@
 
 # Sobre
 
-Olá! Sou Danilo Araujo, um UI/UX Designer e Desenvolvedor Web apaixonado por transformar ideias complexas em soluções digitais intuitivas e funcionais. Com uma sólida carreira de mais de uma década em Design Gráfico, desenvolvi um olhar apurado para branding, hierarquia visual e comunicação, fundamentos que hoje aplico em cada projeto de interface.
+Olá! Sou Danilo Araujo, designer gráfico, UI/UX designer e desenvolvedor web. Tenho mais de uma década de experiência na área de design, atuando em equipes de comunicação, marketing e pedagogia. Desenvolvi um olhar apurado para criação visual e comunicação, aplicando esses fundamentos em cada projeto de interface, do design gráfico à implementação web.
 
 <br>
 

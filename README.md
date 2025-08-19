@@ -1,5 +1,4 @@
-![capa-linkedin-perfil](https://github.com/user-attachments/assets/692d8d88-9e9d-49fe-9f93-4c9a183108de)
-
+![capa-linkedin-perfil](https://github.com/user-attachments/assets/6bbc1d87-38d9-4a65-8828-5fef14c6b892)
 
 # Sobre
 
